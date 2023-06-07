@@ -13,7 +13,7 @@
  <tr>
     <td align="center"><a href="https://github.com/LSMJJAng"><img src="https://avatars.githubusercontent.com/jinny-l" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/Yeonji-Lim"><img src="https://avatars.githubusercontent.com/Yeonji-Lim" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/sebin1213"><img src="https://avatars.githubusercontent.com/sebin1213" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/sebin1213"><img src="https://github.com/LSMJJAng/SW-Alogrithm-Study/assets/127660101/a9ac2122-4a2c-41d2-b891-95464c0ae7a7" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/SmileJune"><img src="https://avatars.githubusercontent.com/SmileJune" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com"><img src="https://avatars.githubusercontent.com/" width="130px;" alt=""></a></td>
   </tr>
