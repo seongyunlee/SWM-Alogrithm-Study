@@ -20,16 +20,16 @@
   <tr>
     <td align="center"><a href="https://github.com/LSMJJAng"><b>LSMJJAng</b></a></td>
     <td align="center"><a href="https://github.com/Yeonji-Lim"><b>Yeonji_Lim</b></a></td>
-    <td align="center"><a href="https://github.com/jaea-kim"><b>jaea-kim</b></a></td>
-    <td align="center"><a href="https://github.com/JeonHyoChang"><b>JeonHyoChang</b></a></td>
-    <td align="center"><a href="https://github.com/Gwonwoo-Nam"><b>Gwonwoo-Nam</b></a></td>
+    <td align="center"><a href="https://github.com/jaea-kim"><b>Sebin</b></a></td>
+    <td align="center"><a href="https://github.com/JeonHyoChang"><b>Iljun</b></a></td>
+    <td align="center"><a href="https://github.com/Gwonwoo-Nam"><b>Sungyun</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
   </tr> 
 </table>
 
