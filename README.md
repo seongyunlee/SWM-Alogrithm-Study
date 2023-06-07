@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/LSMJJAng"><b>LSMJJAng</b></a></td>
-    <td align="center"><a href="https://github.com/Yeonji-Lim"><b>HyowonSin</b></a></td>
+    <td align="center"><a href="https://github.com/Yeonji-Lim"><b>Yeonji_Lim</b></a></td>
     <td align="center"><a href="https://github.com/jaea-kim"><b>jaea-kim</b></a></td>
     <td align="center"><a href="https://github.com/JeonHyoChang"><b>JeonHyoChang</b></a></td>
     <td align="center"><a href="https://github.com/Gwonwoo-Nam"><b>Gwonwoo-Nam</b></a></td>
