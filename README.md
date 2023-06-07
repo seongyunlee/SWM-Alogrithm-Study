@@ -13,16 +13,16 @@
  <tr>
     <td align="center"><a href="https://github.com/LSMJJAng"><img src="https://avatars.githubusercontent.com/jinny-l" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/Yeonji-Lim"><img src="https://avatars.githubusercontent.com/Yeonji-Lim" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/jaea-kim"><img src="https://avatars.githubusercontent.com/jaea-kim" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/JeonHyoChang"><img src="https://avatars.githubusercontent.com/JeonHyoChang" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/Gwonwoo-Nam"><img src="https://avatars.githubusercontent.com/Gwonwoo-Nam" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/sebin1213"><img src="https://avatars.githubusercontent.com/sebin1213" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/SmileJune"><img src="https://avatars.githubusercontent.com/SmileJune" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com"><img src="https://avatars.githubusercontent.com/" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/LSMJJAng"><b>LSMJJAng</b></a></td>
     <td align="center"><a href="https://github.com/Yeonji-Lim"><b>Yeonji_Lim</b></a></td>
-    <td align="center"><a href="https://github.com/jaea-kim"><b>Sebin</b></a></td>
-    <td align="center"><a href="https://github.com/JeonHyoChang"><b>Iljun</b></a></td>
-    <td align="center"><a href="https://github.com/Gwonwoo-Nam"><b>Sungyun</b></a></td>
+    <td align="center"><a href="https://github.com/sebin1213"><b>Sebin</b></a></td>
+    <td align="center"><a href="https://github.com/SmileJune"><b>SmileJune</b></a></td>
+    <td align="center"><a href="https://github.com/"><b>Sungyun</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
