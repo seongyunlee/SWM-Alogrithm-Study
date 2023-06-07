@@ -18,7 +18,7 @@
     <td align="center"><a href="https://github.com/Gwonwoo-Nam"><img src="https://avatars.githubusercontent.com/Gwonwoo-Nam" width="130px;" alt=""></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/LSMJJAng"><b>jinny-l</b></a></td>
+    <td align="center"><a href="https://github.com/LSMJJAng"><b>LSMJJAng</b></a></td>
     <td align="center"><a href="https://github.com/HyowonSin"><b>HyowonSin</b></a></td>
     <td align="center"><a href="https://github.com/jaea-kim"><b>jaea-kim</b></a></td>
     <td align="center"><a href="https://github.com/JeonHyoChang"><b>JeonHyoChang</b></a></td>
