@@ -21,9 +21,9 @@
   <tr>
     <td align="center"><a href="https://github.com/LSMJJAng"><b>LSMJJAng</b></a></td>
     <td align="center"><a href="https://github.com/Yeonji-Lim"><b>Yeonji_Lim</b></a></td>
-    <td align="center"><a href="https://github.com/sebin1213"><b>Sebin</b></a></td>
+    <td align="center"><a href="https://github.com/sebin1213"><b>Sebin1213</b></a></td>
     <td align="center"><a href="https://github.com/SmileJune"><b>SmileJune</b></a></td>
-    <td align="center"><a href="https://github.com/seongyunlee"><b>Sungyun</b></a></td>
+    <td align="center"><a href="https://github.com/seongyunlee"><b>Sungyunlee</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
