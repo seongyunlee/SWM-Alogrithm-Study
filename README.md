@@ -21,9 +21,9 @@
   <tr>
     <td align="center"><a href="https://github.com/LSMJJAng"><b>LSMJJAng</b></a></td>
     <td align="center"><a href="https://github.com/Yeonji-Lim"><b>Yeonji_Lim</b></a></td>
-    <td align="center"><a href="https://github.com/sebin1213"><b>Sebin</b></a></td>
+    <td align="center"><a href="https://github.com/sebin1213"><b>Sebin1213</b></a></td>
     <td align="center"><a href="https://github.com/SmileJune"><b>SmileJune</b></a></td>
-    <td align="center"><a href="https://github.com/seongyunlee"><b>Sungyun</b></a></td>
+    <td align="center"><a href="https://github.com/seongyunlee"><b>Sungyunlee</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
@@ -73,7 +73,7 @@
 
 | 주차 | 날짜 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| week_1 | 06-08 ~ 06-14 | <p align=left> 분할 정복 <br> dp <br> 그리디 | <p align=left> 1️⃣ [사분면](https://www.acmicpc.net/problem/1891) <br> 2️⃣ [동전 2](https://www.acmicpc.net/problem/2294) <br> 3️⃣ [꿀 따기](https://www.acmicpc.net/problem/21758 ) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br> |
+| week_1 | 06-14 ~ 06-21 | <p align=left> . <br> . <br> . <br> . <br> . | <p align=left> 1️⃣ [Z](https://www.acmicpc.net/problem/1074) <br> 2️⃣ [리모컨](https://www.acmicpc.net/problem/1107) <br> 3️⃣ [내리막길](https://www.acmicpc.net/problem/1520) <br> 4️⃣ [배](https://www.acmicpc.net/problem/1092) <br> 5️⃣  [드래곤 앤 던전](https://www.acmicpc.net/problem/16434)</p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>| <br><br> |
 
 
 ## 진행 상황
@@ -89,6 +89,6 @@
 
 |   주차    |      날짜       | LSMJJAng | Yeonji_Lim | sebin1213 | SmileJune | Sungyun |
 |:-------:|:-------------:|:-------:|:---------:|:--------:|:------------:|:-----------:|
-| week_01 | 06-08 ~ 06-24 |        |          |         |            |          |
+| week_01 | 06-14 ~ 06-21 |      |          |         |            |          |
 
 <br>
