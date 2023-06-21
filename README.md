@@ -68,12 +68,18 @@
 4. 사용 라이브러리 있을 시 설명
 5. 기타(문제 풀이에 어려웠던 점, 구현하고자 했는데 실패한 방식)
 
-
 ## ✔️ 이번 주 문제
 
 | 주차 | 날짜 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| week_1 | 06-14 ~ 06-21 | <p align=left> . <br> . <br> . <br> . <br> . | <p align=left> 1️⃣ [Z](https://www.acmicpc.net/problem/1074) <br> 2️⃣ [리모컨](https://www.acmicpc.net/problem/1107) <br> 3️⃣ [내리막길](https://www.acmicpc.net/problem/1520) <br> 4️⃣ [배](https://www.acmicpc.net/problem/1092) <br> 5️⃣  [드래곤 앤 던전](https://www.acmicpc.net/problem/16434)</p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>| <br><br> |
+| week_2 | 06-21 ~ 06-28 | <p align=left> . <br> . <br> . <br> . <br> . | <p align=left> 1️⃣ [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) <br> 2️⃣ [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059) <br> 3️⃣ [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) <br> 4️⃣ [사이클 게임](https://www.acmicpc.net/problem/20040) <br> 5️⃣  [감시](https://www.acmicpc.net/problem/15683)</p> | <img height="25px" width="25px" src="https://github.com/LSMJJAng/SWM-Alogrithm-Study/assets/127660101/b33da84c-3987-41b0-8ed9-cbe0a848c3f8"/> <br> <img height="25px" width="25px" src="https://github.com/LSMJJAng/SWM-Alogrithm-Study/assets/127660101/b33da84c-3987-41b0-8ed9-cbe0a848c3f8"/> <br> <img height="25px" width="25px" src="https://github.com/LSMJJAng/SWM-Alogrithm-Study/assets/127660101/b33da84c-3987-41b0-8ed9-cbe0a848c3f8"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>| <br><br> |
+
+
+## ✔️ 지난 문제
+
+| 주차 | 날짜 | 문제 유형 | 문제 | 난이도 | 비고 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| week_1 | 06-14 ~ 06-21 | <p align=left> 분할정복, 재귀 <br> 브루트포스 <br> DFS, DP <br> 그리디 <br> 구현  | <p align=left> 1️⃣ [Z](https://www.acmicpc.net/problem/1074) <br> 2️⃣ [리모컨](https://www.acmicpc.net/problem/1107) <br> 3️⃣ [내리막길](https://www.acmicpc.net/problem/1520) <br> 4️⃣ [배](https://www.acmicpc.net/problem/1092) <br> 5️⃣  [드래곤 앤 던전](https://www.acmicpc.net/problem/16434)</p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>| <br><br> |
 
 
 ## 진행 상황
