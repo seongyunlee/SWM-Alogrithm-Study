@@ -7,8 +7,7 @@ int main() {
     ios_base::sync_with_stdio(0);
     cin.tie(0);
     int n, m, tmp, ans = 0;
-    vector<int> crane;
-    vector<int> item;
+    vector<int> crane, item;
     cin >> n;
     for(int i = 0; i < n; i++) {
         cin >> tmp;
@@ -26,7 +25,6 @@ int main() {
         return 0;
     }
     while(!item.empty()) {
-        // cout << item.size() << '\n';
         for(int i = 0; i < crane.size(); i++) {
             tmp = 0;
             for(int j = 0; j < item.size(); j++) {
@@ -37,9 +35,8 @@ int main() {
                 }
             }
             if(tmp==0) {
-                crane.erase(crane.begin()+i);
+                crane.pop_back();
                 i--;
-                break;
             }
         }
         ans++;
