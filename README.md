@@ -72,7 +72,7 @@
 
 | 주차 | 날짜 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|:---:|
-| week_5 | 07-13 ~ 07-19 | <p align=left> . <br> . <br> .| <p align=left> 1️⃣ [치킨 배달](https://www.acmicpc.net/problem/15686) <br> 2️⃣ [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) <br> 3️⃣ [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) <br> | <img height="20px" width="20px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="20px" src="https://static.solved.ac/tier_small/12.svg"/> <br> <img height="25px" width="25px" src="https://github.com/LSMJJAng/SWM-Alogrithm-Study/assets/127660101/b33da84c-3987-41b0-8ed9-cbe0a848c3f8"/>| <br><br> |
+| week_6 | 07-20 ~ 07-26 | <p align=left> . <br> . <br> .| <p align=left> 1️⃣ [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) <br> 2️⃣ [보석 줍기](https://www.acmicpc.net/problem/2208) <br> 3️⃣ [연구소](https://www.acmicpc.net/problem/14502) <br> | <img height="25px" width="25px" src="https://github.com/LSMJJAng/SWM-Alogrithm-Study/assets/127660101/b33da84c-3987-41b0-8ed9-cbe0a848c3f8"/> <br> <img height="20px" width="20px" src="https://static.solved.ac/tier_small/14.svg"/> <br> <img height="20px" width="20px" src="https://static.solved.ac/tier_small/12.svg"/>| <br><br> |
 
 
 ## ✔️ 지난 문제
@@ -83,6 +83,7 @@
 | week_2 | 06-22 ~ 06-28 | <p align=left> 구현, 브루트포스 <br> 브루트포스 <br> DP <br> 자료 구조, 분리 집합 <br> 브루트포스, 백트래킹 | <p align=left> 1️⃣ [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) <br> 2️⃣ [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059) <br> 3️⃣ [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) <br> 4️⃣ [사이클 게임](https://www.acmicpc.net/problem/20040) <br> 5️⃣  [감시](https://www.acmicpc.net/problem/15683)</p> | <img height="25px" width="25px" src="https://github.com/LSMJJAng/SWM-Alogrithm-Study/assets/127660101/b33da84c-3987-41b0-8ed9-cbe0a848c3f8"/> <br> <img height="25px" width="25px" src="https://github.com/LSMJJAng/SWM-Alogrithm-Study/assets/127660101/b33da84c-3987-41b0-8ed9-cbe0a848c3f8"/> <br> <img height="25px" width="25px" src="https://github.com/LSMJJAng/SWM-Alogrithm-Study/assets/127660101/b33da84c-3987-41b0-8ed9-cbe0a848c3f8"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>| <br><br> |
 | week_3 | 06-29 ~ 07-05 | <p align=left> dp, 그래프 <br> BFS <br> BFS <br> 구현 <br> 구현 | <p align=left> 1️⃣ [파이프 옮기기1](https://www.acmicpc.net/problem/17070) <br> 2️⃣ [인구 이동](https://www.acmicpc.net/problem/16234) <br> 3️⃣ [쉬운 최단거리](https://www.acmicpc.net/problem/14940) <br> 4️⃣ [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) <br> 5️⃣  [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)</p> | <img height="20px" width="20px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="20px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="20px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> <br> <img height="25px" width="25px" src="https://github.com/LSMJJAng/SWM-Alogrithm-Study/assets/127660101/d9a4f729-6b09-46b1-919f-793ebd62fc81"/>| <br><br> |
 | week_4 | 07-06 ~ 07-12 | <p align=left> DFS <br> 투 포인터 <br> 자료구조| <p align=left> 1️⃣ [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) <br> 2️⃣ [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) <br> 3️⃣ [크게 만들기](https://www.acmicpc.net/problem/2812) <br> | <img height="25px" width="25px" src="https://github.com/LSMJJAng/SWM-Alogrithm-Study/assets/127660101/d9a4f729-6b09-46b1-919f-793ebd62fc81"/> <br> <img height="25px" width="25px" src="https://github.com/LSMJJAng/SWM-Alogrithm-Study/assets/127660101/b33da84c-3987-41b0-8ed9-cbe0a848c3f8"/> <br> <img height="20px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/>| <br><br> |
+| week_5 | 07-13 ~ 07-19 | <p align=left> 브루트포스 <br> BFS <br> 구현| <p align=left> 1️⃣ [치킨 배달](https://www.acmicpc.net/problem/15686) <br> 2️⃣ [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) <br> 3️⃣ [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) <br> | <img height="20px" width="20px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/> <br> <img height="25px" width="25px" src="https://github.com/LSMJJAng/SWM-Alogrithm-Study/assets/127660101/b33da84c-3987-41b0-8ed9-cbe0a848c3f8"/>| <br><br> |
 
 ## 진행 상황
 
@@ -97,8 +98,9 @@
 
 |   주차    |      날짜       | LSMJJAng | Yeonji_Lim | sebin1213 | SmileJune | Sungyun |
 |:-------:|:-------------:|:-------:|:---------:|:--------:|:------------:|:-----------:|
-| week_01 | 06-14 ~ 06-20 |   ✅   |     ✅     |    ☑   |    ☑     |     ✅     |
-| week_02 | 06-21 ~ 06-27 |   ☑   |     ☑    |    ☑   |    ☑     |     ✅     |
-| week_03 | 06-28 ~ 07-04 |   ☑   |     ☑     |    ☑   |    ☑     |     ✅     |
-| week_04 | 07-05 ~ 07-11 |   ✅   |     ☑     |    ☑   |    ☑     |     ☑     |
+| week_01 | 06-14 ~ 06-21 |   ✅   |     ✅     |    ☑   |    ☑     |     ✅     |
+| week_02 | 06-22 ~ 06-28 |   ☑   |     ☑    |    ☑   |    ☑     |     ✅     |
+| week_03 | 06-29 ~ 07-05 |   ☑   |     ☑     |    ☑   |    ☑     |     ✅     |
+| week_04 | 07-06 ~ 07-12 |   ✅   |     ☑     |    ☑   |    ☑     |     ✅    |
+| week_05 | 07-13 ~ 07-19 |   ✅   |     ☑     |    ☑   |   ✅     |     ✅    |
 <br>
