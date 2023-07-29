@@ -72,7 +72,7 @@
 
 | 주차 | 날짜 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|:---:|
-| week_7 | 07-27 ~ 08-02 | <p align=left> . <br> . <br> .| <p align=left> 1️⃣ [로봇 청소기](https://www.acmicpc.net/problem/14503) <br> 2️⃣ [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) <br> 3️⃣ [셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/176782) <br> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="25px" width="25px" src="https://github.com/LSMJJAng/SWM-Alogrithm-Study/assets/127660101/b33da84c-3987-41b0-8ed9-cbe0a848c3f8"/>| <br><br> |
+| week_7 | 07-27 ~ 08-02 | <p align=left> . <br> . <br> .| <p align=left> 1️⃣ [로봇 청소기](https://www.acmicpc.net/problem/14503) <br> 2️⃣ [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) <br> 3️⃣ [셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678) <br> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="25px" width="25px" src="https://github.com/LSMJJAng/SWM-Alogrithm-Study/assets/127660101/b33da84c-3987-41b0-8ed9-cbe0a848c3f8"/>| <br><br> |
 
 
 ## ✔️ 지난 문제
