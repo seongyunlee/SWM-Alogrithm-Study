@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class Q_14503 {
+public class Main {
 
     public static int N, M;
     public static int[][] map;
