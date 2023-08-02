@@ -1,0 +1,58 @@
+def solution(n, t, m, timetable):
+    answer = ''
+    timetable2 = []
+    bustime = []
+    lastbus = []
+    
+    timetable = sorted(timetable)
+    
+    for i in timetable:
+        a, b = map(int, i.split(':'))
+        timetable2.append([a * 60 + b, 0])
+    
+    for i in range(n):
+        temp = i * t 
+        bustime.append([(9 + (temp) // 60) * 60 + (0 + (temp) % 60), m])
+    
+    for i in range(len(timetable2)):
+        for j in range(len(bustime) - 1):
+            
+            if timetable2[i][0] <= bustime[j][0]:
+                bustime[j][1] -= 1
+                timetable2[i][1] = -1
+                
+                if bustime[j][1] == 0:
+                    bustime.pop(j)
+
+                break
+                
+    for i in timetable2:
+        if i[1] == 0:
+            lastbus.append(i[0])
+    
+    
+    if len(lastbus) < m: # 마지막차를 탈 인원이 셔틀에 탈 수 있는 크루원 수보다 적으면
+        hour = str(bustime[-1][0] // 60)
+        minit = str(bustime[-1][0] % 60)
+        
+        if len(hour) < 2: # 답을 0900와 같은 형태로 만들어 주는 조건문
+            hour = '0' * (2 - len(str(hour))) + str(hour)
+        
+        if len(minit) < 2:
+            minit = '0' * (2 - len(str(minit))) + str(minit)
+            
+        answer = hour + ':' + minit
+        return answer
+    
+    time = min(lastbus[m - 1] - 1, bustime[-1][0]) # 마지막차 시간제한 안에 튜브가 가장 늦게 나올 수 있는 시간
+    hour = str(time // 60)
+    minit = str(time % 60)
+    if len(hour) < 2: #답을 09:00와 같은 형태로 만들어 주는 조건문
+        hour = '0' * (2 - len(str(hour))) + str(hour)
+
+    if len(minit) < 2:
+        minit = '0' * (2 - len(str(minit))) + str(minit)
+
+    answer = hour + ':' + minit
+        
+    return answer

@@ -1,0 +1,45 @@
+import sys
+from collections import deque
+
+N, K = map(int, sys.stdin.readline().split())
+belt = list(map(int, sys.stdin.readline().split()))
+belt = deque(belt)
+count = 0
+robot = []
+
+
+
+while True:
+    # 1번
+    count += 1
+    temp = belt.pop()
+    belt.appendleft(temp)
+
+
+    if robot:
+        for i in range(len(robot)):
+            robot[i] += 1
+
+        if robot[0] >= N - 1:
+            robot.pop(0)
+
+    # 2번
+    if robot:
+        for i in range(len(robot)):
+            if belt[robot[i] + 1] >= 1 and (robot[i] + 1) not in robot:
+                robot[i] += 1
+                belt[robot[i]] -= 1
+
+        if robot[0] >= N - 1:
+            robot.pop(0)
+
+    # 3번
+    if belt[0] > 0:
+        robot.append(0)
+        belt[0] -= 1
+
+    # 4번
+    if belt.count(0) >= K:
+        break
+
+print(count)
