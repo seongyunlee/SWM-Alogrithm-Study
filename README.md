@@ -72,7 +72,7 @@
 
 | 주차 | 날짜 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|:---:|
-| week_7 | 07-27 ~ 08-02 | <p align=left> . <br> . <br> .| <p align=left> 1️⃣ [산책](https://www.acmicpc.net/problem/22868) <br> 2️⃣ [로또](https://www.acmicpc.net/problem/2758) <br> 3️⃣ [암벽등반](https://www.acmicpc.net/problem/2412) <br> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>| <br><br> |
+| week_9 | 08-10 ~ 08-16 | <p align=left> . <br> . <br>. | <p align=left> 1️⃣ [최고의 팀 만들기](https://www.acmicpc.net/problem/1633) <br> 2️⃣ [개똥벌레](https://www.acmicpc.net/problem/3020) <br> 3️⃣ [게리맨더링](https://www.acmicpc.net/problem/17471) <br> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>| <br><br> |
 
 
 ## ✔️ 지난 문제
@@ -86,6 +86,7 @@
 | week_5 | 07-13 ~ 07-19 | <p align=left> 브루트포스 <br> BFS <br> 구현| <p align=left> 1️⃣ [치킨 배달](https://www.acmicpc.net/problem/15686) <br> 2️⃣ [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) <br> 3️⃣ [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) <br> | <img height="20px" width="20px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/> <br> <img height="25px" width="25px" src="https://github.com/LSMJJAng/SWM-Alogrithm-Study/assets/127660101/b33da84c-3987-41b0-8ed9-cbe0a848c3f8"/>| <br><br> |
 | week_6 | 07-20 ~ 07-26 | <p align=left> 수학, 구현 <br> 누적 합 <br> 구현, 그래프| <p align=left> 1️⃣ [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) <br> 2️⃣ [보석 줍기](https://www.acmicpc.net/problem/2208) <br> 3️⃣ [연구소](https://www.acmicpc.net/problem/14502) <br> | <img height="25px" width="25px" src="https://github.com/LSMJJAng/SWM-Alogrithm-Study/assets/127660101/b33da84c-3987-41b0-8ed9-cbe0a848c3f8"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>| <br><br> |
 | week_7 | 07-27 ~ 08-02 | <p align=left> 구현 <br> 구현 <br> 구현| <p align=left> 1️⃣ [로봇 청소기](https://www.acmicpc.net/problem/14503) <br> 2️⃣ [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) <br> 3️⃣ [셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678) <br> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="25px" width="25px" src="https://github.com/LSMJJAng/SWM-Alogrithm-Study/assets/127660101/b33da84c-3987-41b0-8ed9-cbe0a848c3f8"/>| <br><br> |
+| week_8 | 08-03 ~ 08-09 | <p align=left> BFS <br> DP <br> 그래프, 탐색 | <p align=left> 1️⃣ [산책](https://www.acmicpc.net/problem/22868) <br> 2️⃣ [로또](https://www.acmicpc.net/problem/2758) <br> 3️⃣ [암벽등반](https://www.acmicpc.net/problem/2412) <br> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>| <br><br> |
 
 
 ## 진행 상황
@@ -108,4 +109,5 @@
 | week_05 | 07-13 ~ 07-19 |   ✅   |     ☑     |    ☑   |   ✅     |     ✅    |
 | week_06 | 07-20 ~ 07-26 |   ☑   |          |    ☑   |   ☑     |     ✅    |
 | week_07 | 07-27 ~ 08-02 |   ✅   |          |    ☑   |   ☑     |     ✅    |
+| week_08 | 08-03 ~ 08-09 |   ☑   |          |    ☑   |   ☑     |     ☑    |
 <br>
